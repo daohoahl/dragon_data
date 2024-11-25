@@ -1,0 +1,4 @@
+requests==2.26.0
+clearml==1.1.4
+fiftyone==0.14.2
+tqdm==4.62.3
